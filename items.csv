@@ -1,0 +1,18 @@
+Category,Name,Price,Quantity
+Main,Hot Dog,3.00,0
+Main,Hamburger,4.00,0
+Main,Cheeseburger,4.50,0
+Main,Chicken Sandwich,5.00,0
+Main,Veggie Burger,4.00,0
+Main,Pepperoni Pizza Slice,2.50,0
+Main,Cheese Pizza Slice,2.00,0
+Snacks,Popcorn,1.50,0
+Snacks,Chips,1.00,0
+Snacks,Candy Bar,1.25,0
+Snacks,Soft Pretzel,2.00,0
+Snacks,Nachos,3.00,0
+Drinks,Soda,1.50,0
+Drinks,Bottled Water,1.00,0
+Drinks,Sports Drink,2.00,0
+Drinks,Hot Chocolate,1.50,0
+Drinks,Coffee,1.50,0
